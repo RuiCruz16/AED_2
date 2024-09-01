@@ -1,6 +1,6 @@
 # Project 2: ATFMS - Flight Management System
 
-This project was carried out in the **second year**, where we developed a flight management system using **graphs** and the **Haversine formula** to manage and analyze flight routes and airports.
+This project was carried out in the **second year first semester**, where we developed a flight management system using **graphs** and the **Haversine formula** to manage and analyze flight routes and airports.
 
 ## Overview
 
